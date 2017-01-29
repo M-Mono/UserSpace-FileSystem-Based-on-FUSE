@@ -22,11 +22,11 @@
 
 要在 FUSE 中创建一个文件系统，您需要安装一个 FUSE 内核模块，然后使用 FUSE 库和 API 来创建自己的文件系统。
 
-![使用 FUSE 开发自己的文件系统](https://github.com/M-Mono/UserSpace-FileSystem-Based-on-FUSE/Images/FUSE_structure.svg.png)
+![使用 FUSE 开发自己的文件系统](https://github.com/M-Mono/UserSpace-FileSystem-Based-on-FUSE/blob/master/Images/FUSE_structure.svg.png)
 ---
 编译环境：
 + Fork
-  - [Yixf-Education](https://github.com/Yixf-Education/BP4B)
+  - [wuzhouhui](https://github.com/wuzhouhui/fs_on_fuse)
 
 
 + Apple OS X & macOS
@@ -38,8 +38,8 @@
 
 
 + Fonts
-  - [Inziu Iosevka 1.11.0](https://be5invis.github.io/Iosevka/inziu.html)
-  - [Source Code Pro 2.030](https://github.com/adobe-fonts/source-code-pro)
+	- [Source Han Sans 1.004](https://github.com/adobe-fonts/source-han-sans)
+	- [Source Code Pro 2.030](https://github.com/adobe-fonts/source-code-pro)
 
 
 + Editor
